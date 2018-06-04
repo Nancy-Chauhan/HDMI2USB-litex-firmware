@@ -357,10 +357,7 @@ firmware version info
     ?? ../../../../HDMI2USB-mode-switch/
     --
 
-         built: May 31 2018 10:43:25
-        uptime: 00:00:00
------------------------------------------------
-MDIO mode: 1000Mbps / link: down
+   
 
 ```
 
